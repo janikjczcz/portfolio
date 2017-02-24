@@ -185,10 +185,8 @@ body {
 @media only screen and (min-width: 769px) {
   /* paralax only on large devices */
   .home {
-  /*background-color: #3bb273;*/
-  background-image: url('http://imgh.us/bg_small2_1.jpg');
+  background-image: url('img/bg_small.jpg');
   height: 100%;
-  /*max-height: 400px;*/
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -196,7 +194,7 @@ body {
 }
   
   #portfolio {
-  background-image: url('http://imgh.us/bg_small2_1.jpg');
+  background-image: url('/bg_small2.jpg');
   height: 100%;
   background-attachment: fixed;
   background-position: center;
